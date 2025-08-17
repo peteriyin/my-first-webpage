@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD:wght@100..400&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap");
+
+html {
+  background-color: rgb(70, 70, 70);
+}
+
+body {
+  font-family: "Playwrite AU QLD";
+  color: antiquewhite;
+  /* width: 600px; */
+  margin: 0 5%;
+}
+
+header {
+  font-weight: bold;
+  text-shadow: 3px 3px 1px #000000;
+  text-align: center;
+}
+
+.navigation {
+  background-color: #272727;
+  padding: 1px 15px 25px 15px;
+}
+
+.navigation ul {
+  list-style-type: none;
+}
+
+.nav li {
+  float: left;
+}
+
+li a {
+  text-decoration: none;
+  color: antiquewhite;
+  padding: 10px 50px;
+  /* text-align: justify; */
+  /* display: block; */
+}
+
+a:hover {
+  background-color: rgb(70, 70, 70);
+  font-weight: bolder;
+}
+
+.submit {
+  text-decoration: none;
+}
+
+.aside {
+  background-color: #272727;
+  float: left;
+  margin: 2% 2% 2% 0;
+  padding: 1px 15px 25px 15px;
+}
+
+.aside ul {
+  list-style-type: none;
+}
+.aside li {
+  letter-spacing: 1px;
+  line-height: 3;
+  text-align: left;
+}
+
+button {
+  background-color: #db2626;
+  border: none;
+  font-family: "Playwrite AU QLD";
+  color: antiquewhite;
+  padding: 0.6rem;
+}
+
+button:hover {
+  background-color: #ff0000;
+  font-weight: bolder;
+}
