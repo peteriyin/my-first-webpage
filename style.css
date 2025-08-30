@@ -34,8 +34,7 @@ li a {
   text-decoration: none;
   color: antiquewhite;
   padding: 10px 50px;
-  /* text-align: justify; */
-  /* display: block; */
+  font-weight: 300;
 }
 
 a:hover {

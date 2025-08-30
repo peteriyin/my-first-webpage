@@ -1,0 +1,36 @@
+html {
+  font-family: sans-serif;
+  background-color: rgb(226, 217, 217);
+}
+
+body {
+  color: #322f2f;
+}
+
+h1 {
+  color: #ba2be2;
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 2px solid#540c96;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.job-title {
+  font-weight: bold;
+  color: #999999;
+}
+
+h2 {
+  font-style: italic;
+}
+
+ul {
+  border: 5px solid #540c96;
+  padding: 25px;
+  background-color: #bfc7c5;
+}
+
+a:hover {
+  color: #ba2be2;
+  text-decoration: none;
+}
